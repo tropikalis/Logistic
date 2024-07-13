@@ -8,7 +8,7 @@ HTML CSS learning project for begginers.
 
 Site published at: https://tropikalis.github.io/Logistic/
 
-Design: [Astronautas] (https://dribbble.com/shots/23422627-Shipment-Logistic-Dashboard-App)
+Design: [Logistic] (https://dribbble.com/shots/23422627-Shipment-Logistic-Dashboard-App)
 
 ## 🎯 Project features/goals
 
